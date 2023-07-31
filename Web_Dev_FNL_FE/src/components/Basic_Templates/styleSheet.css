@@ -1,0 +1,25 @@
+.Description{
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.5em;
+    color: #999999;
+    margin: 10px 0 30px;
+    padding-left: 15px;
+    text-align: left;
+}
+
+.Title{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5em;
+    color: #3C4858;
+    margin: 10px 0 30px;
+    text-align: center;
+}
+.Button{
+    color : #c44b99 !important;
+    outline-color: #c44b99 !important;
+}
+
+
+
